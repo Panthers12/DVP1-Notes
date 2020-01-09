@@ -8,3 +8,4 @@ I go to Full Sail University & I'm from GA.
 
 I love playing video games & watching/ playing sports.
 
+I had Database Class yesterday today I have P&P1.
