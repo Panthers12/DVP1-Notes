@@ -1,0 +1,5 @@
+
+# preference file, not something to share
+.DS_Store
+# visual studio... lets ignore the prefs folder
+.vs/
